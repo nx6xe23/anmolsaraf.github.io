@@ -1,0 +1,10 @@
+---
+title: "Appliance Ownership Prediction With Smart Meter Data"
+collection: publications
+permalink: /publication/appliance-ownership-prediction
+date: 2024-06-04
+venue: '15th ACM International Conference on Future and Sustainable Energy Systems'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3632775.3661989'
+citation: "Anmol Saraf and Anupama Kowli. 2024. Appliance Ownership Prediction With Smart Meter Data. In Proceedings of the 15th ACM International Conference on Future and Sustainable Energy Systems (e-Energy '24). Association for Computing Machinery, New York, NY, USA, 633–638. https://doi.org/10.1145/3632775.3661989"
+---
+The deployment of smart electricity meters has surged in recent years and prompted researchers and practitioners to leverage the meter data to facilitate the understanding of end-use electricity consumption. This study aims to inspect the relationship between household appliance ownership and recorded electricity consumption. Specifically, fifteen-minute, daily and monthly consumption data from 116 households across India is used to infer appliance ownership information. The 116 households considered in the study include some houses with air-conditioners and water heaters, which constitute a significant portion of a household’s energy consumption. Other appliances include lights, fans, refrigerators and washing machines. A range of machine learning models –random forest, XGBoost, and multi-layer perceptron – are trained and tested to solve the regression problem of estimating the number of appliances owned. The results show that extracting the details about the attributes from the consumption patterns is difficult, but there is a strong relation between them. A prediction accuracy of 70% to 80% is seen, with accuracy improving with the use of daily temperature data.
