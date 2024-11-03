@@ -8,11 +8,14 @@ main:
   - title: "Publications"
     url: /publications/  
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Research"
+    url: /research/
 
+  - title: "Technical Projects"
+    url: /projects/
+    
   - title: "Contact"
-    url: /teaching/    
+    url: /contact/    
     
   - title: "CV"
     url: /cv/
